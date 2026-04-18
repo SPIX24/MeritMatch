@@ -1,7 +1,6 @@
 # MeritMatch
-
 <p align="center">
-   <img src="https://www.image2url.com/r2/default/images/1776525379103-05de0b82-7b9c-46fd-9334-a167aca2a6ec.png" alt="MeritMatch site" width="800"/>
+   <img src="https://i.postimg.cc/xjMxPPTX/Screenshot-2026-03-23-120710.png" alt="Campus Shuttle Site Preview" width="800" />
 </p>
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)
