@@ -1,9 +1,5 @@
 # MeritMatch
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/rajat2502/animated-svg-demo/main/animation.svg" width="300" alt="Animated MeritMatch Dashboard"/>
-</p>
-
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)
 ![Platform](https://img.shields.io/badge/Platform-Web-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -29,7 +25,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/MeritMatch.git
+   git clone https://github.com/Hiran-Abhisheka/MeritMatch.git
    ```
 2. **Open in Visual Studio** and restore NuGet packages.
 3. **Update database:**
